@@ -12,6 +12,7 @@ body {
         linear-gradient(120deg,hsla(0, 0%, 15%, 1) 0%,hsla(0, 0%, 5%, 1) 50%,hsla(0, 0%, 20%, 1) 100%),
         linear-gradient(30deg,hsla(120, 80%, 30%, 0.8) 0%,hsla(120, 90%, 40%, 0.5) 50%,hsla(120, 100%, 20%, 0.8) 100%);
     animation: glow 3s infinite alternate;
+    background-blend-mode: overlay;
     background-attachment: fixed;
     background-size: cover;
 }
