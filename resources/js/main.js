@@ -80,7 +80,7 @@ const configs = [
 },
 {
     id: 4,
-    name: "IGN",
+    name: "IGNORE THIS",
     creator: "qloha",
     updated: "10/5/2024",
     tags: ["Blatant", "Ghost", "recommended"],
@@ -98,7 +98,7 @@ const configs = [
 },
 {
     id: 5,
-    name: "clk BMC",
+    name: "IGNORE THIS",
     creator: "celakk",
     updated: "11/16/2024",
     tags: ["Blatant", "recommended"],
@@ -116,7 +116,7 @@ const configs = [
 },
 {
     id: 6,
-    name: "VimeMC - Pit",
+    name: "IGNORE THIS",
     creator: "pzuo",
     updated: "10/11/2024",
     tags: ["Ghost", "Blatant", "recommended"],
@@ -134,7 +134,7 @@ const configs = [
 },
 {
     id: 7,
-    name: "Pika",
+    name: "IGNORE THIS",
     creator: "pzuo",
     updated: "10/22/2024",
     tags: ["Ghost", "Blatant", "recommended"],
@@ -152,7 +152,7 @@ const configs = [
 },
 {
     id: 8,
-    name: "Stardix",
+    name: "IGNORE THIS",
     creator: "qloha",
     updated: "11/3/2024",
     tags: ["Blatant", "recommended"],
