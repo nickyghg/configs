@@ -25,16 +25,16 @@ const presetColors = {
 const configs = [
 {
     id: 1,
-    name: "MiniBlox Liquidbounce Config",
+    name: "MiniBlox Liquidbounce/FDP Config",
     creator: "nicky",
-    updated: "8/1/2025",
+    updated: "1/8/2025",
     tags: ["Blatant", "MiniBlox", "recommended"],
     anticheat: ["No AC, Only Setbacks"],
     description: ["Fly Method, Very Blatant, Tutorial for usage"],
     cover: "https://avatars.githubusercontent.com/u/97767956?s=200&v=4",
     ip: "localhost",
     downloadLink: "https://lootdest.org/s?aDs31I7B",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#7700ff", // Accent
@@ -43,43 +43,44 @@ const configs = [
 },
 {
     id: 2,
-    name: "100% Legit",
-    creator: "qloha",
-    updated: "9/27/2024",
-    tags: ["Ghost"],
-    anticheat: "Any",
-    description: ["100% legit, with nothing enabled.<b><br />No binds</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/any.png",
-    ip: "Any",
-    downloadLink: "https://github.com/user-attachments/files/17238894/Legit-qloha.json",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"]],
+    name: "BlocksMC Liquidbounce Config",
+    creator: "nicky",
+    updated: "1/8/2025",
+    tags: ["Blatant", "BlocksMC", "recommended"],
+    anticheat: ["Verus", "Updated NCP"],
+    description: ["Liquidbounce BlocksMC Config"],
+    cover: "resources/icons/BlocksMC.png",
+    ip: "blocksmc.com",
+    screenshots: ["https://imgur.com/a/FWNM3Pg"],
+    downloadLink: "https://loot-link.com/s?F8roS9ng",
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"]],
     colors: {
         text: "#ffffff", // Text
-        accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        accent: "#0084ff", // Accent
+        header: "#0e8a00" // Header
     }
 },
 {
     id: 3,
-    name: "VimeMC Pit",
-    creator: "qloha",
-    updated: "10/22/2024",
-    tags: ["Blatant", "Ghost", "recommended"],
-    anticheat: "Grim",
-    description: ["Bypasses fully, no flags.<b><br />Killaura - R<br />Speed - G<br />Gui - RShift<br />All Visuals - - (minus)</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/VimeMC.png",
-    ip: "mc.vimemc.net",
-    downloadLink: "https://github.com/user-attachments/files/17484102/VMCPit-qloha.json",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
+    name: "BlocksMC FDP Client Config",
+    creator: "nicky",
+    updated: "1/8/2025",
+    tags: ["Blatant", "BlocksMC", "recommended"],
+    anticheat: ["Verus", "Updated NCP"],
+    description: ["BlocksMC Config for FDP Client"],
+    cover: "resources/icons/BlocksMC.png",
+    ip: "blocksmc.com",
+    downloadLink: "https://lootdest.org/s?pupuKAzZ",
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 },
 {
     id: 4,
-    name: "HylexMC",
+    name: "IGN",
     creator: "qloha",
     updated: "10/5/2024",
     tags: ["Blatant", "Ghost", "recommended"],
@@ -90,9 +91,9 @@ const configs = [
     downloadLink: "https://github.com/user-attachments/files/17266882/HylexMC-qloha.json",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 },
 {
@@ -108,9 +109,9 @@ const configs = [
     downloadLink: "https://github.com/user-attachments/files/17787558/BlocksMC-clk.json",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 },
 {
@@ -126,9 +127,9 @@ const configs = [
     downloadLink: "https://github.com/user-attachments/files/17348121/VimeMCPit-under.json",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 },
 {
@@ -144,9 +145,9 @@ const configs = [
     downloadLink: "https://github.com/user-attachments/files/17484130/Pika-under.json",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 },
 {
@@ -162,9 +163,9 @@ const configs = [
     downloadLink: "https://github.com/user-attachments/files/17610806/Stardix-qloha.json",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        header: "#0e8a00" // Header
     }
 }
 ];
