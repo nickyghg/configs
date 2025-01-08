@@ -25,20 +25,20 @@ const presetColors = {
 const configs = [
 {
     id: 1,
-    name: "under BMC",
-    creator: "pzuo",
-    updated: "10/6/2024",
-    tags: ["Blatant", "BlocksMC", "recommended"],
-    anticheat: ["Verus", "Updated NCP"],
-    description: ["Semi blatant, everything bypasses, low/high ping support, and lasts 25-40mins!<b><br />BedAura - V<br />ChestStealer & InvManager - P<br />Gui - END<br />KillAura - R<br />Scaffold - LALT<br />Speed - X<br />Antivoid : U</b>"],
+    name: "MiniBlox Liquidbounce Config",
+    creator: "nicky",
+    updated: "8/1/2025",
+    tags: ["Blatant", "MiniBlox", "recommended"],
+    anticheat: ["No AC, Only Setbacks"],
+    description: ["Fly Method, Very Blatant, Tutorial for usage"],
     cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/BlocksMC.png",
-    ip: "play.BlocksMC.com",
-    downloadLink: "https://github.com/user-attachments/files/17270291/BlocksMC-under.json",
+    ip: "localhost",
+    downloadLink: "https://lootdest.org/s?aDs31I7B",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
         text: "#000000", // Text
-        accent: "#36fff5", // Accent
-        header: "#f70cf0" // Header
+        accent: "#00ff8c", // Accent
+        header: "#0e8a00" // Header
     }
 },
 {
