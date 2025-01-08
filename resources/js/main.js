@@ -36,7 +36,7 @@ const configs = [
     downloadLink: "https://lootdest.org/s?aDs31I7B",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"]],
     colors: {
-        text: "#000000", // Text
+        text: "#ffffff", // Text
         accent: "#7700ff", // Accent
         header: "#0e8a00" // Header
     }
