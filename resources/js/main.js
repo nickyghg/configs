@@ -62,7 +62,7 @@ const configs = [
 },
 {
     id: 3,
-    name: "BlocksMC FDP Client Config",
+    name: "BlocksMC FDP Client Config/Theme",
     creator: "nicky",
     updated: "1/8/2025",
     tags: ["Blatant", "BlocksMC", "recommended"],
