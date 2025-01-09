@@ -50,7 +50,7 @@ const configs = [
     anticheat: ["Verus", "Updated NCP"],
     description: ["Liquidbounce BlocksMC Config"],
     cover: "resources/icons/BlocksMC.png",
-    screenshots: "https://imgur.com/a/FWNM3Pg",
+    screenshots: "resources/screenshots/1.png",
     ip: "blocksmc.com",
     downloadLink: "https://loot-link.com/s?F8roS9ng",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"]],
