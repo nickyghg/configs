@@ -51,9 +51,9 @@ const configs = [
     description: ["Liquidbounce BlocksMC Config"],
     cover: "resources/icons/BlocksMC.png",
     ip: "blocksmc.com",
-    screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/1.png"],
+    screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/1.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/cherry1.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/cherry2.png"],
     downloadLink: "https://loot-link.com/s?F8roS9ng",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"], ["https://lootdest.org/s?bLmnbo7Y", "Download Cherry Theme"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#0084ff", // Accent
