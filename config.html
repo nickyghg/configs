@@ -41,6 +41,16 @@
 
     const configDetails = document.getElementById('configDetails');
 
+    let screenshotsContent = '';
+    if (client.screenshots && client.screenshots.length > 0) {
+        screenshotsContent = `
+            <h3 style="color: ${client.colors.text};">Screenshots:</h3>
+            <div class="screenshots">
+                ${client.screenshots.map(screenshot => `<img src="${screenshot}" alt="Screenshot">`).join('')}
+            </div>
+        `;
+    }
+
     let otherButtonsContent = '';
     if (config.otherButtons && config.otherButtons.length > 0) {
         otherButtonsContent = `
@@ -67,6 +77,7 @@
                 <ul>${(Array.isArray(config.anticheat) ? config.anticheat : [config.anticheat]).map(anticheat => `<li style="border-color: ${config.colors.accent};">${anticheat}</li>`).join('')}</ul>
             </div>
         </div>
+        ${screenshotsContent}
         <a href="${config.downloadLink}" class="download-button" style="border-color: ${config.colors.accent};"  target="_blank">Download </a>
         ${otherButtonsContent} <!-- Add the other buttons here -->
     `;
