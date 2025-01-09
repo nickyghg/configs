@@ -27,6 +27,7 @@
 
     <main id="configDetails">
     </main>
+    
     <script defer src="resources/js/main.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
@@ -42,11 +43,11 @@
     const configDetails = document.getElementById('configDetails');
 
     let screenshotsContent = '';
-    if (client.screenshots && client.screenshots.length > 0) {
+    if (config.screenshots && config.screenshots.length > 0) {
         screenshotsContent = `
-            <h3 style="color: ${client.colors.text};">Screenshots:</h3>
+            <h3 style="color: ${config.colors.text};">Screenshots:</h3>
             <div class="screenshots">
-                ${client.screenshots.map(screenshot => `<img src="${screenshot}" alt="Screenshot">`).join('')}
+                ${config.screenshots.map(screenshot => `<img src="${screenshot}" alt="Screenshot">`).join('')}
             </div>
         `;
     }
