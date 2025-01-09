@@ -70,7 +70,7 @@ const configs = [
     description: ["BlocksMC Config for FDP Client"],
     cover: "resources/icons/BlocksMC.png",
     ip: "blocksmc.com",
-    screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/MDUpiIO.png"]
+    screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/MDUpiIO.png"],
     downloadLink: "https://lootdest.org/s?pupuKAzZ",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"], ["https://loot-link.com/s?0xjiWdg1", "Download Theme"]],
     colors: {
