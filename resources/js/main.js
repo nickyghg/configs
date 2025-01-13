@@ -72,8 +72,8 @@ const configs = [
     cover: "resources/icons/BlocksMC.png",
     ip: "blocksmc.com",
     screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/MDUpiIO.png"],
-    downloadLink: "https://lootdest.org/s?pupuKAzZ",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"], ["https://loot-link.com/s?0xjiWdg1", "Download Theme"]],
+    downloadLink: "https://loot-link.com/s?JNs22CFT",
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?pupuKAzZ", "Download Config for b11(broken rots)"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"], ["https://loot-link.com/s?0xjiWdg1", "Download Theme"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#36fff5", // Accent
