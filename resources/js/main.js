@@ -101,19 +101,19 @@ const configs = [
 },
 {
     id: 5,
-    name: "IGNORE THIS",
-    creator: "celakk",
-    updated: "11/16/2024",
+    name: "Hypixel Config for Raven XD",
+    creator: "nicky",
+    updated: "1/15/2025",
     tags: ["Blatant", "recommended"],
-    anticheat: ["Verus", "Updated NCP"],
-    description: ["Fine tuned config for flag less gameplay. Made for skywars.<b><br />GUI - RShift<br />Killaura - Q<br />Scaffold - V<br />ChestStealer & InvManager - B<br />BedAura - H<br />Speed - Z</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/BlocksMC.png",
-    ip: "BlocksMC.com",
-    downloadLink: "https://github.com/user-attachments/files/17787558/BlocksMC-clk.json",
+    anticheat: ["Watchdog"],
+    description: ["Great Hypixel Config"],
+    cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
+    ip: "hypixel.net",
+    downloadLink: "https://lootdest.org/s?FQWYntYC",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
     colors: {
         text: "#ffffff", // Text
-        accent: "#36fff5", // Accent
+        accent: "#ffe600", // Accent
         header: "#0e8a00" // Header
     }
 },
