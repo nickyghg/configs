@@ -92,7 +92,7 @@ const configs = [
     ip: "blocksmc.com",
     screenshots: ["https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.57.13.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.59.21.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.59.41.png"],
     downloadLink: "https://lootdest.org/s?zobL7QbY",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?t818aCyh", "Download Raven XD"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#36fff5", // Accent
@@ -110,64 +110,10 @@ const configs = [
     cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
     ip: "hypixel.net",
     downloadLink: "https://lootdest.org/s?FQWYntYC",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?t818aCyh", "Download Raven XD"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#ffe600", // Accent
-        header: "#0e8a00" // Header
-    }
-},
-{
-    id: 6,
-    name: "IGNORE THIS",
-    creator: "pzuo",
-    updated: "10/11/2024",
-    tags: ["Ghost", "Blatant", "recommended"],
-    anticheat: ["Grim"],
-    description: ["Mainly for 150~ ping with staff on. Has four block long reach.<b><br />Killaura - R<br />Speed - X<br />GUI - RShift</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/VimeMC.png",
-    ip: "mc.vimemc.net",
-    downloadLink: "https://github.com/user-attachments/files/17348121/VimeMCPit-under.json",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
-    colors: {
-        text: "#ffffff", // Text
-        accent: "#36fff5", // Accent
-        header: "#0e8a00" // Header
-    }
-},
-{
-    id: 7,
-    name: "IGNORE THIS",
-    creator: "pzuo",
-    updated: "10/22/2024",
-    tags: ["Ghost", "Blatant", "recommended"],
-    anticheat: ["Polar"],
-    description: ["Killaura sometimes flags.<b><br />Killaura - R<br />Speed - X<br />Scaffold - RMenu</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/pika.png",
-    ip: "play.pika-network.net",
-    downloadLink: "https://github.com/user-attachments/files/17484130/Pika-under.json",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
-    colors: {
-        text: "#ffffff", // Text
-        accent: "#36fff5", // Accent
-        header: "#0e8a00" // Header
-    }
-},
-{
-    id: 8,
-    name: "IGNORE THIS",
-    creator: "qloha",
-    updated: "11/3/2024",
-    tags: ["Blatant", "recommended"],
-    anticheat: ["Old Grim"],
-    description: ["Good bypasses. Make sure you are using the latest version of Raven XD with the updated StaffDetector to avoid possible staff bans. You can get my dev build at here: https://www.file.io/BJ1r/download/Hs7CNEna5nGr <b><br />KillAura & Criticals - R<br />Speed - G<br />Scaffold - H<br />Velocity - V<br />NoFall - N<br />Fly & Blink - F<br />Visuals - Minus<br />BedAura - X<br />BedDefender - Z</b>"],
-    cover: "https://raw.githubusercontent.com/Project-XD/project-xd.github.io/master/resources/icons/stardix.png",
-    ip: "play.stardix.com",
-    downloadLink: "https://github.com/user-attachments/files/17610806/Stardix-qloha.json",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://bstlar.com/3AL/Raven-XD", "Download Raven XD"]],
-    colors: {
-        text: "#ffffff", // Text
-        accent: "#36fff5", // Accent
         header: "#0e8a00" // Header
     }
 }
