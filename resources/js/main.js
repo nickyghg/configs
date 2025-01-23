@@ -92,7 +92,7 @@ const configs = [
     ip: "blocksmc.com",
     screenshots: ["https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.57.13.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.59.21.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/2025-01-15_16.59.41.png"],
     downloadLink: "https://lootdest.org/s?zobL7QbY",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?t818aCyh", "Download Raven XD"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#36fff5", // Accent
@@ -110,7 +110,7 @@ const configs = [
     cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
     ip: "hypixel.net",
     downloadLink: "https://lootdest.org/s?FQWYntYC",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?t818aCyh", "Download Raven XD"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#ffe600", // Accent
