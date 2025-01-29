@@ -116,6 +116,24 @@ const configs = [
         accent: "#ffe600", // Accent
         header: "#0e8a00" // Header
     }
+},
+{
+    id: 6,
+    name: "Hypixel Config for Liquidbounce",
+    creator: "nicky",
+    updated: "1/29/2025",
+    tags: ["Blatant", "recommended"],
+    anticheat: ["Watchdog"],
+    description: ["Great Hypixel Config"],
+    cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
+    ip: "hypixel.net",
+    downloadLink: "https://loot-link.com/s?7VC9XdiW",
+    otherButtons:[["https://liquidbounce.net/download", "Download Liquidbounce"], ["https://loot-link.com/s?MRiib5Vu", "Download Catppuccin Theme"]],
+    colors: {
+        text: "#ffffff", // Text
+        accent: "#ffe600", // Accent
+        header: "#0e8a00" // Header
+    }
 }
 ];
 
