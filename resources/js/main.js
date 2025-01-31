@@ -134,6 +134,24 @@ const configs = [
         accent: "#ffe600", // Accent
         header: "#0e8a00" // Header
     }
+},
+{
+    id: 7,
+    name: "MiniBlox Config for Raven XD",
+    creator: "nicky",
+    updated: "1/31/2025",
+    tags: ["Blatant", "recommended"],
+    anticheat: ["none"],
+    description: ["Rage Config with Fly, Killaura, Speed, Scaffold etc"],
+    cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
+    ip: "localhost",
+    downloadLink: "https://lootdest.org/s?nhlZY1UQ",
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"]],
+    colors: {
+        text: "#ffffff", // Text
+        accent: "#7700ff", // Accent
+        header: "#0e8a00" // Header
+    }
 }
 ];
 
