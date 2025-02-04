@@ -143,7 +143,7 @@ const configs = [
     tags: ["Blatant", "recommended"],
     anticheat: ["none"],
     description: ["Rage Config with Fly, Killaura, Speed, Scaffold etc"],
-    cover: "https://avatars.githubusercontent.com/u/3840546?s=280&v=4",
+    cover: "https://avatars.githubusercontent.com/u/97767956?s=200&v=4",
     ip: "localhost",
     downloadLink: "https://lootdest.org/s?nhlZY1UQ",
     otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"]],
