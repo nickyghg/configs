@@ -160,7 +160,7 @@ const configs = [
     updated: "2/10/2025",
     tags: ["Blatant", "recommended"],
     anticheat: ["none"],
-    description: ["Rage Config with Fly, Killaura, Speed, Scaffold etc"],
+    description: ["Rage Config with Killaura, Speed, Scaffold etc"],
     cover: "https://avatars.githubusercontent.com/u/97767956?s=200&v=4",
     ip: "localhost",
     downloadLink: "https://loot-link.com/s?Nap4mVmG",
