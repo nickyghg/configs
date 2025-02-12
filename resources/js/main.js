@@ -35,7 +35,7 @@ const configs = [
     ip: "localhost",
     screenshots: ["https://github.com/nickyghg/configs/raw/refs/heads/main/resources/screenshots/1.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/cherry1.png", "https://raw.githubusercontent.com/nickyghg/configs/refs/heads/main/resources/screenshots/cherry2.png"],
     downloadLink: "https://lootdest.org/s?aDs31I7B",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"], ["https://lootdest.org/s?bLmnbo7Y", "Download Cherry Theme"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://loot-link.com/s?f9IiBcr5", "Download Liquidbounce"], ["https://loot-link.com/s?Cu51LIqZ", "Download MiniBlox Translation Layer"], ["https://loot-link.com/s?c3NCuHnv", "Download SigmaBounce Theme"], ["https://lootdest.org/s?bLmnbo7Y", "Download Cherry Theme"], ["https://lootdest.org/s?ps3zlWuC", "Download FDP Client"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#7700ff", // Accent
@@ -146,7 +146,7 @@ const configs = [
     cover: "https://avatars.githubusercontent.com/u/97767956?s=200&v=4",
     ip: "localhost",
     downloadLink: "https://lootdest.org/s?nhlZY1UQ",
-    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"]],
+    otherButtons:[["https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar", "Download Forge"], ["https://lootdest.org/s?jTPoCg11", "Download Raven XD"], ["https://loot-link.com/s?Cu51LIqZ", "Download MiniBlox Translation Layer"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#7700ff", // Accent
@@ -164,7 +164,7 @@ const configs = [
     cover: "https://avatars.githubusercontent.com/u/97767956?s=200&v=4",
     ip: "localhost",
     downloadLink: "https://loot-link.com/s?Nap4mVmG",
-    otherButtons:[["https://lootdest.org/s?DbZpJRQm", "Download Exhibition Client"]],
+    otherButtons:[["https://lootdest.org/s?DbZpJRQm", "Download Exhibition Client"], ["https://loot-link.com/s?Cu51LIqZ", "Download MiniBlox Translation Layer"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#7700ff", // Accent
