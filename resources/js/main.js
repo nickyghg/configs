@@ -62,7 +62,7 @@ const configs = [
     }
 },
 {
-    id: 3,
+    id: 9,
     name: "BlocksMC FDP Client Config/Theme",
     creator: "nicky",
     updated: "1/8/2025",
@@ -165,6 +165,24 @@ const configs = [
     ip: "localhost",
     downloadLink: "https://loot-link.com/s?Nap4mVmG",
     otherButtons:[["https://lootdest.org/s?DbZpJRQm", "Download Exhibition Client"], ["https://loot-link.com/s?Cu51LIqZ", "Download MiniBlox Translation Layer"]],
+    colors: {
+        text: "#ffffff", // Text
+        accent: "#7700ff", // Accent
+        header: "#0e8a00" // Header
+    }
+},
+{
+    id: 3,
+    name: "Myau Client + Hypixel Config",
+    creator: "nicky",
+    updated: "10/18/2025",
+    tags: ["Blatant", "recommended"],
+    anticheat: ["Hypixel Prediction Anticheat"],
+    description: ["Myau Client Leak + Config with Killaura, Scaffold etc"],
+    cover: "https://images.emojiterra.com/google/android-11/512px/1f431.png",
+    ip: "hypixel.net",
+    downloadLink: "https://lootdest.org/s?ORUeVkRx",
+    otherButtons:[["https://lootdest.org/s?GMfMezl2", "Myau Config for Hypixel"]],
     colors: {
         text: "#ffffff", // Text
         accent: "#7700ff", // Accent
