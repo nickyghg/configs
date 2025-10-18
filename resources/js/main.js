@@ -337,3 +337,23 @@ function toggleOutdatedConfigs() {
     document.getElementById('toggleOutdated').textContent = hideOutdated ? "Hide Outdated" : "Show Outdated";
     populateConfigs();
 }
+
+(function animateEtherBackground() {
+    const lerp = (a, b, t) => a + (b - a) * t;
+    const blobs = [
+        { x: 20, y: 30, tx: 40, ty: 60, speed: 0.18, phase: 0 },
+        { x: 80, y: 70, tx: 60, ty: 40, speed: 0.14, phase: Math.PI / 2 },
+        { x: 60, y: 50, tx: 70, ty: 80, speed: 0.11, phase: Math.PI }
+    ];
+    function animate(time) {
+        blobs.forEach((blob, i) => {
+            const t = (Math.sin(time * blob.speed / 1000 + blob.phase) + 1) / 2;
+            const x = lerp(blob.x, blob.tx, t);
+            const y = lerp(blob.y, blob.ty, t);
+            document.body.style.setProperty(`--x${i+1}`, `${x}%`);
+            document.body.style.setProperty(`--y${i+1}`, `${y}%`);
+        });
+        requestAnimationFrame(animate);
+    }
+    requestAnimationFrame(animate);
+})();
