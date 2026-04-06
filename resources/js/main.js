@@ -99,6 +99,23 @@ const configs = [
         header: "#0e8a00" // Header
     }
 },
+    {
+    id: 10,
+    name: "Cubecraft Config LB",
+    creator: "nicky",
+    updated: "4/6/2026",
+    tags: ["Blatant", "Cubecraft", "recommended"],
+    anticheat: ["Sentinel"],
+    description: ["config"],
+    cover: "/resources/icons/channels4_profile.jpg",
+    ip: "play.cubecraft.net:19132",
+    downloadLink: "https://drive.google.com/file/d/1mZbD-m6fdCDL8bRKJd2-BmKUlT4p4K9l/view?usp=sharing",
+    colors: {
+        text: "#ffffff", // Text
+        accent: "#36fff5", // Accent
+        header: "#0e8a00" // Header
+    }
+},
 {
     id: 5,
     name: "Hypixel Config for Raven XD",
